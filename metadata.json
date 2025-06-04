@@ -1,0 +1,6 @@
+{
+  "name": "OWA",
+  "description": "An application that provides AI-generated insights and simulated alerts for selected cryptocurrencies using Gemini API. This is for educational and informational purposes only and not financial advice.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
